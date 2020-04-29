@@ -1,2 +1,7 @@
 forumapp/forumapp/__pycache__/
 forumapp/forumapp/__pycache__/*.pyc
+forumapp/polls/__pycache__/
+forumapp/polls/__pycache__/*.pyc
+forumapp/polls/migrations/__pycache__/
+forumapp/forumapp/__pycache__/*.pyc
+forumapp/forumapp/__pycache__/settings.cpython-36.pyc
