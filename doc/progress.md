@@ -7,3 +7,4 @@
 - 20200518 : https://docs.djangoproject.com/en/3.0/intro/tutorial04/
 - 20200520 : https://docs.djangoproject.com/en/3.0/intro/tutorial04/
 	- Use generic views: Less code is better The detail() (from Tutorial 3) and results() views are very short – and, as mentioned above, redundant. The index() view, which displays a list of polls, is similar.
+- 20200522 : https://docs.djangoproject.com/en/3.0/intro/tutorial05/
