@@ -6,4 +6,5 @@ forumapp/polls/migrations/__pycache__/
 forumapp/forumapp/__pycache__/*.pyc
 forumapp/forumapp/__pycache__/settings.cpython-36.pyc
 forumapp/forumapp/__pycache__/*
- forumapp/polls/*.pyc
+forumapp/polls/*.pyc
+forumapp/db.sqlite3
