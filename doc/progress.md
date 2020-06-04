@@ -10,3 +10,4 @@
 - 20200522 : https://docs.djangoproject.com/en/3.0/intro/tutorial05/
 - 20200526 : https://docs.djangoproject.com/en/3.0/intro/tutorial05/
 	- Testing the DetailView
+- 20200604 : https://docs.djangoproject.com/en/3.0/intro/tutorial06/

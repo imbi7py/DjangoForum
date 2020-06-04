@@ -17,4 +17,7 @@ python manage.py test polls
 ```
 
 ## Ref
-- https://docs.djangoproject.com/en/3.0/
+- doc
+	- https://docs.djangoproject.com/en/3.0/
+- testing django
+	- https://docs.djangoproject.com/en/3.0/topics/testing/
