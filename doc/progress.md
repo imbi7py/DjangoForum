@@ -13,3 +13,5 @@
 - 20200604 : 
 	- https://docs.djangoproject.com/en/3.0/intro/tutorial06/
 	- https://docs.djangoproject.com/en/3.0/intro/tutorial07/
+- 20200607 :
+	- https://docs.djangoproject.com/en/3.0/intro/tutorial07/
