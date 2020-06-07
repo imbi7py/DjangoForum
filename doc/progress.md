@@ -15,3 +15,4 @@
 	- https://docs.djangoproject.com/en/3.0/intro/tutorial07/
 - 20200607 :
 	- https://docs.djangoproject.com/en/3.0/intro/tutorial07/
+		- Customize the admin change list
