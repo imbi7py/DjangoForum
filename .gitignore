@@ -8,3 +8,5 @@ forumapp/forumapp/__pycache__/settings.cpython-36.pyc
 forumapp/forumapp/__pycache__/*
 forumapp/polls/*.pyc
 forumapp/db.sqlite3
+forumapp/forumapp/__pycache__
+forumapp/forumapp/__pycache__/settings.cpython-36.pyc
