@@ -16,8 +16,16 @@ cd ~ && cd DjangoForum/forumapp
 python manage.py test polls
 ```
 
-## Ref
-- doc
+### Help commands
+```bash
+# find Django source files
+python -c "import django; print(django.__path__)"
+```
+
+### Ref
+- official doc
 	- https://docs.djangoproject.com/en/3.0/
 - testing django
 	- https://docs.djangoproject.com/en/3.0/topics/testing/
+- doc
+	- https://github.com/yennanliu/DjangoForum/tree/master/doc

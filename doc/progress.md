@@ -16,3 +16,6 @@
 - 20200607 :
 	- https://docs.djangoproject.com/en/3.0/intro/tutorial07/
 		- Customize the admin change list
+- 20200616
+	- https://docs.djangoproject.com/en/3.0/intro/whatsnext/
+	- https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
