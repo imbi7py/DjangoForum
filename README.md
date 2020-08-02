@@ -29,3 +29,7 @@ python -c "import django; print(django.__path__)"
 	- https://docs.djangoproject.com/en/3.0/topics/testing/
 - doc
 	- https://github.com/yennanliu/DjangoForum/tree/master/doc
+- Forum
+	- https://twaigroup.com/community/
+	- https://www.reddit.com/r/django/comments/2cr755/best_django_forum_application/
+	- https://djangopackages.org/grids/g/forum/
